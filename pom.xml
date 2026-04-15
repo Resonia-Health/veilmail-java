@@ -10,8 +10,8 @@
     <packaging>jar</packaging>
 
     <name>Veil Mail Java SDK</name>
-    <description>Official Java SDK for the Veil Mail API</description>
-    <url>https://veilmail.xyz</url>
+    <description>Official Java SDK for Veil Mail — secure transactional and marketing email with automatic PII protection. A drop-in alternative to Resend, SendGrid, Mailgun, and Postmark, with full support for emails, domains, templates, audiences, campaigns, automation sequences, webhooks, and CASL compliance.</description>
+    <url>https://veilmail.xyz/docs/sdk-java</url>
 
     <licenses>
         <license>
